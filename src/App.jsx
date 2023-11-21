@@ -38,7 +38,7 @@ const App = () => {
           <div id={login}>
             <login/>
             <button onClick={()=> navigate('login')}>
-              login
+             
             </button>
           </div>
         </main>
